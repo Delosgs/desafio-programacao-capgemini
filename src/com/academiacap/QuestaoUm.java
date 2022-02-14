@@ -1,6 +1,6 @@
 package com.academiacap;
 
-public class Main {
+public class QuestaoUm {
     public static void main(String[] args) {
         int base = 6, qtdasterisco = 1;
         for (int i = 1; i <= 6; i++) {
