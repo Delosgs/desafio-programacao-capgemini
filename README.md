@@ -1,3 +1,3 @@
 ## Desafio-programacao-capgemini
 
-#### Os Códigos foram feitos na lingujem java, so copiar ocolocar para rodar na IDE de sua preferencia.
+#### Os Códigos foram feitos na linguagem java, so copiar e colocar para rodar na IDE de sua preferencia.
